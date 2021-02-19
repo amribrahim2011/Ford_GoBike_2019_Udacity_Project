@@ -1,5 +1,5 @@
-# (Communicate Data Findings: 2019 Ford Go-Bike Project)
-## by (Amr Ibrahim (amr.ibrahim2011@gmail.com))
+# Communicate Data Findings: 2019 Ford Go-Bike Project
+
 
 
 ## Dataset
